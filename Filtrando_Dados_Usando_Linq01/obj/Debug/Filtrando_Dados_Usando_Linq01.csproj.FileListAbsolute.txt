@@ -1,0 +1,6 @@
+C:\Users\Fransoft\Documents\TI\C#\Desktop\Filtrando_Dados_Usando_Linq01\Filtrando_Dados_Usando_Linq01\bin\Debug\Filtrando_Dados_Usando_Linq01.exe.config
+C:\Users\Fransoft\Documents\TI\C#\Desktop\Filtrando_Dados_Usando_Linq01\Filtrando_Dados_Usando_Linq01\bin\Debug\Filtrando_Dados_Usando_Linq01.exe
+C:\Users\Fransoft\Documents\TI\C#\Desktop\Filtrando_Dados_Usando_Linq01\Filtrando_Dados_Usando_Linq01\bin\Debug\Filtrando_Dados_Usando_Linq01.pdb
+C:\Users\Fransoft\Documents\TI\C#\Desktop\Filtrando_Dados_Usando_Linq01\Filtrando_Dados_Usando_Linq01\obj\Debug\Filtrando_Dados_Usando_Linq01.csprojResolveAssemblyReference.cache
+C:\Users\Fransoft\Documents\TI\C#\Desktop\Filtrando_Dados_Usando_Linq01\Filtrando_Dados_Usando_Linq01\obj\Debug\Filtrando_Dados_Usando_Linq01.exe
+C:\Users\Fransoft\Documents\TI\C#\Desktop\Filtrando_Dados_Usando_Linq01\Filtrando_Dados_Usando_Linq01\obj\Debug\Filtrando_Dados_Usando_Linq01.pdb
